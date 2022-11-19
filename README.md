@@ -1,4 +1,4 @@
-<h1 align="center">Fatima Kahil</h1>
+<h1 align="center">Dr. Fatima Kahil</h1>
 <h3 align="center">An Astrophysicist by education, an aspiring Data Scientist</h3>
 
 
