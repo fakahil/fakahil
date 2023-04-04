@@ -1,5 +1,5 @@
 <h1 align="center">Dr. Fatima Kahil</h1>
-<h3 align="center">An Astrophysicist by education, an aspiring Data Scientist</h3>
+<h3 align="center">Remote sensing spatial analyst</h3>
 
 
 - 🔭 I’m currently working on **Image processing of satellite data**
