@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Image processing of satellite data**
 
-- 🌱 I’m currently learning **Buisness Analytics, ML+Ops, NLP, Data Science**
+- 🌱 I’m currently learning **Buisness Analytics, ML+Ops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fakahil](https://github.com/fakahil)
 
